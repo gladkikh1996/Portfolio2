@@ -1,6 +1,6 @@
 # Публикация на GitHub
 
-Адрес репозитория для публикации: `gladkikh1996/python-qa-homework`. Описание: «Учебные задания по Python для QA: коллекции, функции, ООП и библиотечный проект с логированием».
+Адрес репозитория для публикации: `gladkikh1996/Portfolio2`. Описание: «Учебные задания по Python для QA: коллекции, функции, ООП и библиотечный проект с логированием».
 
 ## Если работаешь с подготовленной локальной Git-папкой
 
@@ -23,7 +23,7 @@ git commit -m "Collect Python QA homework portfolio"
 Если репозиторий ещё не создан, создай его пустым на GitHub без автоматически добавляемых README, `.gitignore` и LICENSE. Если `origin` ещё не настроен, выполни:
 
 ```bash
-git remote add origin https://github.com/gladkikh1996/python-qa-homework.git
+git remote add origin https://github.com/gladkikh1996/Portfolio2.git
 git push -u origin main
 ```
 
