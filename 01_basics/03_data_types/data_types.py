@@ -8,7 +8,10 @@ print(my_list, type(my_list))
 my_tuple = (1, 2, 3, 4, 5)
 print(my_tuple)
 print(my_tuple, type(my_tuple))
-my_tuple[0] = [5]
+try:
+    my_tuple[0] = [5]
+except TypeError:
+    print("Кортеж неизменяем: присвоить новое значение его элементу нельзя.")
 print(my_tuple, type(my_tuple))
 
 ###################Задание № 4##########################

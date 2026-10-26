@@ -1,8 +1,8 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "assembled_on": "2026-10-26",
   "source_repository": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh",
-  "import_policy": "Original source bytes preserved; assignments reorganized into independent folders. New repository, not a mirror of GitLab history.",
+  "import_policy": "All 37 source files were imported byte-for-byte in original_import_commit. Original sha256 and bytes remain historical source metadata. 35 files are unchanged; two files now include explicit handling of expected educational exceptions. For modified files only, portfolio_sha256 and portfolio_bytes describe the current version and modification explains the change. Assignments are reorganized into independent folders; this is a new repository, not a mirror of GitLab history.",
   "assignments": [
     {
       "id": "hello",
@@ -60,7 +60,10 @@
           "source_path": "data_types.py",
           "sha256": "a625c4fc4d40e093a3574ac18838c1bcf06243b72dc120f2757aae7bd921b606",
           "bytes": 1297,
-          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/3be0a9a6d641bb47a1c03275a5ed9b55d9060984/data_types.py"
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/3be0a9a6d641bb47a1c03275a5ed9b55d9060984/data_types.py",
+          "portfolio_sha256": "05c518d7e1c3fe61a50f4a1f19dbca9ab18ab18e51f7f9723cc490ec481c3538",
+          "portfolio_bytes": 1457,
+          "modification": "2026-10-27: Handle the expected TypeError from tuple item assignment, explain tuple immutability, and continue remaining exercises."
         }
       ]
     },
@@ -200,7 +203,10 @@
           "source_path": "set_task.py",
           "sha256": "bdadaea3a0370a220f46cd0084f3df9a144d068d73bb1b5a8ed9eed508c78121",
           "bytes": 7814,
-          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/set_task.py"
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/set_task.py",
+          "portfolio_sha256": "52359179e1b20eaa45917ec5bf83eae2fd179dedeee51833624059d49c2007ea",
+          "portfolio_bytes": 7964,
+          "modification": "2026-10-27: Handle the expected KeyError from removing an absent set element, explain the difference from discard(), and continue remaining exercises."
         }
       ]
     },
@@ -523,5 +529,6 @@
         }
       ]
     }
-  ]
+  ],
+  "original_import_commit": "02a0e3aabcc06bbd52cfd396ed2466acb5dc63e8"
 }

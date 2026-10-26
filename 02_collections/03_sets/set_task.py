@@ -8,7 +8,10 @@ asia_set.discard("Япония")
 print(asia_set)
 asia_set.discard("Вьетнам")
 print("После discard, ничего не удалит так как во множестве его нет и ошибки не будет, в отличие от remove: ", asia_set)
-asia_set.remove("Вьетнам")
+try:
+    asia_set.remove("Вьетнам")
+except KeyError:
+    print("Вьетнама нет во множестве: remove() вызывает KeyError, а discard() — нет.")
 print("После remove: ", asia_set)
 ##############Задание № 1.3 ########################
 europe_set = {"Франция", "Сербия", "Андорра", "Норвегия", "Португалия", "Бельгия"}
