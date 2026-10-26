@@ -1,0 +1,5 @@
+# Preserve exact bytes of imported homework sources across Git checkouts.
+* -text
+# Newly authored documentation uses LF consistently.
+*.md text eol=lf
+docs/*.json text eol=lf

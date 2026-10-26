@@ -1,0 +1,527 @@
+{
+  "schema_version": 1,
+  "assembled_on": "2026-10-26",
+  "source_repository": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh",
+  "import_policy": "Original source bytes preserved; assignments reorganized into independent folders. New repository, not a mirror of GitLab history.",
+  "assignments": [
+    {
+      "id": "hello",
+      "title": "Первый запуск Python",
+      "directory": "01_basics/01_hello",
+      "original_branch": "develop",
+      "snapshot_ref": "a59575690ba83f6d8248afe143cce3cc24861ece",
+      "commit": "a59575690ba83f6d8248afe143cce3cc24861ece",
+      "merge_request": 2,
+      "entrypoint": "Hello.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/2",
+      "files": [
+        {
+          "path": "01_basics/01_hello/Hello.py",
+          "source_path": "Hello.py",
+          "sha256": "3523e702539908883acef9fb4b734668128bff637535d15e02b5400453e117ea",
+          "bytes": 26,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/a59575690ba83f6d8248afe143cce3cc24861ece/Hello.py"
+        }
+      ]
+    },
+    {
+      "id": "home_work2.1",
+      "title": "Переменные",
+      "directory": "01_basics/02_variables",
+      "original_branch": "home_work2.1",
+      "snapshot_ref": "home_work2.1",
+      "commit": "9be0115f60642655543b4831cf590a34feee386a",
+      "merge_request": 5,
+      "entrypoint": "variables.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/5",
+      "files": [
+        {
+          "path": "01_basics/02_variables/variables.py",
+          "source_path": "variables.py",
+          "sha256": "72be2b21c7545f7a6b039a935402eb7617493de6f44bff973c4656db502e895c",
+          "bytes": 1937,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/9be0115f60642655543b4831cf590a34feee386a/variables.py"
+        }
+      ]
+    },
+    {
+      "id": "home_work2.2",
+      "title": "Типы данных",
+      "directory": "01_basics/03_data_types",
+      "original_branch": "home_work2.2",
+      "snapshot_ref": "home_work2.2",
+      "commit": "3be0a9a6d641bb47a1c03275a5ed9b55d9060984",
+      "merge_request": 3,
+      "entrypoint": "data_types.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/3",
+      "files": [
+        {
+          "path": "01_basics/03_data_types/data_types.py",
+          "source_path": "data_types.py",
+          "sha256": "a625c4fc4d40e093a3574ac18838c1bcf06243b72dc120f2757aae7bd921b606",
+          "bytes": 1297,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/3be0a9a6d641bb47a1c03275a5ed9b55d9060984/data_types.py"
+        }
+      ]
+    },
+    {
+      "id": "home_work2.3",
+      "title": "Операции",
+      "directory": "01_basics/04_operations",
+      "original_branch": "home_work2.3",
+      "snapshot_ref": "home_work2.3",
+      "commit": "2500f822f5c0bdb6895f7c1cf2ba7558b9c94dee",
+      "merge_request": 4,
+      "entrypoint": "operations.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/4",
+      "files": [
+        {
+          "path": "01_basics/04_operations/operations.py",
+          "source_path": "operations.py",
+          "sha256": "3529faab5e1c0d573bb44b10dde286e59d2a985ac78b54852679ac53dd285cab",
+          "bytes": 2001,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/2500f822f5c0bdb6895f7c1cf2ba7558b9c94dee/operations.py"
+        }
+      ]
+    },
+    {
+      "id": "home_work2.4",
+      "title": "Условные конструкции",
+      "directory": "01_basics/05_conditions",
+      "original_branch": "home_work2.4",
+      "snapshot_ref": "home_work2.4",
+      "commit": "143e826f9d74194e60ce3654e346fbc0f7fde1c5",
+      "merge_request": 6,
+      "entrypoint": "conditional_statements.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/6",
+      "files": [
+        {
+          "path": "01_basics/05_conditions/conditional_statements.py",
+          "source_path": "conditional_statements.py",
+          "sha256": "519b959ff8aab8ceff0758904ac05008ff6144ade5e13d1d53bd65736d4a9d96",
+          "bytes": 4544,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/143e826f9d74194e60ce3654e346fbc0f7fde1c5/conditional_statements.py"
+        }
+      ]
+    },
+    {
+      "id": "home_work3.1",
+      "title": "Строки",
+      "directory": "01_basics/06_strings",
+      "original_branch": "home_work3.1",
+      "snapshot_ref": "home_work3.1",
+      "commit": "310c75c7497077fb6bdb7c941c9f9941c64a3f93",
+      "merge_request": 7,
+      "entrypoint": "string_task.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/7",
+      "files": [
+        {
+          "path": "01_basics/06_strings/string_task.py",
+          "source_path": "string_task.py",
+          "sha256": "81f8ad2df4786e68111de6cdb5459ee3c1edc788d4d6641d6c13cf651704cdc6",
+          "bytes": 2911,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/310c75c7497077fb6bdb7c941c9f9941c64a3f93/string_task.py"
+        }
+      ]
+    },
+    {
+      "id": "home_work3.2",
+      "title": "Циклы",
+      "directory": "01_basics/07_loops",
+      "original_branch": "home_work3.2",
+      "snapshot_ref": "home_work3.2",
+      "commit": "3f8117d7894e2cec1ac3dd3efd21444b2432b517",
+      "merge_request": 8,
+      "entrypoint": "loops.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/8",
+      "files": [
+        {
+          "path": "01_basics/07_loops/loops.py",
+          "source_path": "loops.py",
+          "sha256": "a316e33e1b181dd8a0848d29451719471be213a4bfd97f5828649dedefa93ac3",
+          "bytes": 3194,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/3f8117d7894e2cec1ac3dd3efd21444b2432b517/loops.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-14",
+      "title": "Списки",
+      "directory": "02_collections/01_lists",
+      "original_branch": "AOMWZ-14",
+      "snapshot_ref": "main",
+      "commit": "cd85a45a17977325754445f8bcae22315106ad4f",
+      "merge_request": 10,
+      "entrypoint": "list_task.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/10",
+      "files": [
+        {
+          "path": "02_collections/01_lists/list_task.py",
+          "source_path": "list_task.py",
+          "sha256": "47fd4b38c4f7f32c2db87b77af5d5709f3d87287e3fe8ec6c201285dc791980c",
+          "bytes": 5829,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/list_task.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-15",
+      "title": "Кортежи",
+      "directory": "02_collections/02_tuples",
+      "original_branch": "AOMWZ-15",
+      "snapshot_ref": "main",
+      "commit": "cd85a45a17977325754445f8bcae22315106ad4f",
+      "merge_request": 11,
+      "entrypoint": "tuple_task.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/11",
+      "files": [
+        {
+          "path": "02_collections/02_tuples/tuple_task.py",
+          "source_path": "tuple_task.py",
+          "sha256": "8f14e0fcf08bf1d771ee56ba7bee5da061834bcffb444d3d3f5757fe6ee72d6b",
+          "bytes": 5741,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/tuple_task.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-16",
+      "title": "Множества",
+      "directory": "02_collections/03_sets",
+      "original_branch": "AOMWZ-16",
+      "snapshot_ref": "main",
+      "commit": "cd85a45a17977325754445f8bcae22315106ad4f",
+      "merge_request": 12,
+      "entrypoint": "set_task.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/12",
+      "files": [
+        {
+          "path": "02_collections/03_sets/set_task.py",
+          "source_path": "set_task.py",
+          "sha256": "bdadaea3a0370a220f46cd0084f3df9a144d068d73bb1b5a8ed9eed508c78121",
+          "bytes": 7814,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/set_task.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-17",
+      "title": "Словари",
+      "directory": "02_collections/04_dictionaries",
+      "original_branch": "AOMWZ-17",
+      "snapshot_ref": "main",
+      "commit": "cd85a45a17977325754445f8bcae22315106ad4f",
+      "merge_request": 13,
+      "entrypoint": "dict_task.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/13",
+      "files": [
+        {
+          "path": "02_collections/04_dictionaries/dict_task.py",
+          "source_path": "dict_task.py",
+          "sha256": "14f7ac36beb84e4b26bf5ee5bc0a33d4a75e7ef5250a8e718c2d7aa6fab1bc6d",
+          "bytes": 4970,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/dict_task.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-18",
+      "title": "Функции",
+      "directory": "03_functions/01_functions",
+      "original_branch": "AOMWZ-18",
+      "snapshot_ref": "AOMWZ-18",
+      "commit": "301142cf982f6ab265220d6350e5401b6d9aac61",
+      "merge_request": 17,
+      "entrypoint": "functions.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/17",
+      "files": [
+        {
+          "path": "03_functions/01_functions/functions.py",
+          "source_path": "functions.py",
+          "sha256": "4338a5dfbaa878a868ffe34d370468833312578918243c9203141c97b4994617",
+          "bytes": 4554,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/301142cf982f6ab265220d6350e5401b6d9aac61/functions.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-19",
+      "title": "Области видимости",
+      "directory": "03_functions/02_scopes",
+      "original_branch": "AOMWZ-19",
+      "snapshot_ref": "AOMWZ-19",
+      "commit": "6f1ae59967a2783b6173a840e42873eb5f1cef67",
+      "merge_request": 14,
+      "entrypoint": "scopes.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/14",
+      "files": [
+        {
+          "path": "03_functions/02_scopes/scopes.py",
+          "source_path": "scopes.py",
+          "sha256": "15e47417d04c987c4c1a0f5d20743b0316ebe9c89c840741814bc15871b8a4d3",
+          "bytes": 5981,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/6f1ae59967a2783b6173a840e42873eb5f1cef67/scopes.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-20",
+      "title": "Модули стандартной библиотеки",
+      "directory": "03_functions/03_modules",
+      "original_branch": "AOMWZ-20",
+      "snapshot_ref": "AOMWZ-20",
+      "commit": "df66a870ad39affc9608dec98a9a183414f07a56",
+      "merge_request": 15,
+      "entrypoint": "modules.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/15",
+      "files": [
+        {
+          "path": "03_functions/03_modules/modules.py",
+          "source_path": "modules.py",
+          "sha256": "0771f87f1b862c11486d2903122edc79f230bae3de83b75a086bc674d654c5f2",
+          "bytes": 7309,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/df66a870ad39affc9608dec98a9a183414f07a56/modules.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-22",
+      "title": "Декораторы",
+      "directory": "03_functions/04_decorators",
+      "original_branch": "AOMWZ-22",
+      "snapshot_ref": "AOMWZ-22",
+      "commit": "daf9865df83fa90de7418761ff0ed3132b64ad82",
+      "merge_request": 16,
+      "entrypoint": "decorators.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/16",
+      "files": [
+        {
+          "path": "03_functions/04_decorators/decorators.py",
+          "source_path": "decorators.py",
+          "sha256": "0414201156ede6802a7fabb8b600f356c97f27016351b191617b7362e8334e6c",
+          "bytes": 4640,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/daf9865df83fa90de7418761ff0ed3132b64ad82/decorators.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-23",
+      "title": "Обработка исключений",
+      "directory": "03_functions/05_exceptions",
+      "original_branch": "AOMWZ-23",
+      "snapshot_ref": "AOMWZ-23",
+      "commit": "df289329d3543447006be4dc2d2202bbce10ea5b",
+      "merge_request": 18,
+      "entrypoint": "exceptions.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/18",
+      "files": [
+        {
+          "path": "03_functions/05_exceptions/exceptions.py",
+          "source_path": "exceptions.py",
+          "sha256": "c48e8ad8bca6dfd358da81822331d21e8d149a14d1548accb9bf25fc11e5f2a2",
+          "bytes": 3902,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/df289329d3543447006be4dc2d2202bbce10ea5b/exceptions.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-25",
+      "title": "Классы и экземпляры",
+      "directory": "04_oop/01_classes",
+      "original_branch": "AOMWZ-25",
+      "snapshot_ref": "AOMWZ-25",
+      "commit": "f7529e49132ad3c1d061034eab82eaefab218446",
+      "merge_request": 19,
+      "entrypoint": "oop.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/19",
+      "files": [
+        {
+          "path": "04_oop/01_classes/oop.py",
+          "source_path": "oop.py",
+          "sha256": "6c4d48ca7d41f6bfb47d34119381bfcb8126479a9894fb28d7b840035ac92231",
+          "bytes": 2252,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/f7529e49132ad3c1d061034eab82eaefab218446/oop.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-26",
+      "title": "Магические методы",
+      "directory": "04_oop/02_magic_methods",
+      "original_branch": "AOMWZ-26",
+      "snapshot_ref": "AOMWZ-26",
+      "commit": "d4f0eeb045535db8f44772f52c2c5e0f24a6ce3c",
+      "merge_request": 20,
+      "entrypoint": "oop.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/20",
+      "files": [
+        {
+          "path": "04_oop/02_magic_methods/oop.py",
+          "source_path": "oop.py",
+          "sha256": "961322cd1de8a7dee9d1c991fae631df0e9b6fab6feae053c1752889cde18fed",
+          "bytes": 3152,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/d4f0eeb045535db8f44772f52c2c5e0f24a6ce3c/oop.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-44",
+      "title": "Библиотека: линтеры",
+      "directory": "05_projects/01_library_linters",
+      "original_branch": "AOMWZ-44",
+      "snapshot_ref": "main",
+      "commit": "cd85a45a17977325754445f8bcae22315106ad4f",
+      "merge_request": 21,
+      "entrypoint": "main.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/21",
+      "files": [
+        {
+          "path": "05_projects/01_library_linters/.flake8",
+          "source_path": ".flake8",
+          "sha256": "42de74a6a66446b08b352c4c026af1b3207a700f2c26544a5c6a2a49c55755c0",
+          "bytes": 144,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/.flake8"
+        },
+        {
+          "path": "05_projects/01_library_linters/.gitignore",
+          "source_path": ".gitignore",
+          "sha256": "0689a8f7ca9d9e76d90d92f8dc80fa3d22e0bb77ba7ff0fae921d5713f60cdf1",
+          "bytes": 20,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/.gitignore"
+        },
+        {
+          "path": "05_projects/01_library_linters/.pylintrc",
+          "source_path": ".pylintrc",
+          "sha256": "c3cc7b5b0032b62ea53895ce73725900a9462aecb2c289818be601d7d7611e70",
+          "bytes": 38,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/.pylintrc"
+        },
+        {
+          "path": "05_projects/01_library_linters/data/books.json",
+          "source_path": "data/books.json",
+          "sha256": "95b6caba05a4274c92e200a4cdb03430e80221583c03479fa8ae6d969c997757",
+          "bytes": 1502,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/data/books.json"
+        },
+        {
+          "path": "05_projects/01_library_linters/library.py",
+          "source_path": "library.py",
+          "sha256": "197163832705d89ec2b2e52ef0d24ec188ae3a79f0865320b8c182ab15b5ca24",
+          "bytes": 2128,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/library.py"
+        },
+        {
+          "path": "05_projects/01_library_linters/main.py",
+          "source_path": "main.py",
+          "sha256": "2603b17704f4b52bc1e3eda6c1dc3db9f78f553d3d89f2eda58fdcff7d9c83f1",
+          "bytes": 1478,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/main.py"
+        },
+        {
+          "path": "05_projects/01_library_linters/requirements.txt",
+          "source_path": "requirements.txt",
+          "sha256": "04bf0360edec8dc4e98dac0fab412ddb29284eb0fe84b63f315e560645f7df1d",
+          "bytes": 364,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/requirements.txt"
+        },
+        {
+          "path": "05_projects/01_library_linters/user.py",
+          "source_path": "user.py",
+          "sha256": "16f05a2206e7448b4fd22ba5c6a1bfa3841153c605497cc33b1044e02435ddce",
+          "bytes": 1464,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/user.py"
+        },
+        {
+          "path": "05_projects/01_library_linters/utils.py",
+          "source_path": "utils.py",
+          "sha256": "4cedcda2b23f8a877e5275a8bfa5da651ded2fc52dd0ee81d654440630ca7898",
+          "bytes": 213,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/cd85a45a17977325754445f8bcae22315106ad4f/utils.py"
+        }
+      ]
+    },
+    {
+      "id": "AOMWZ-45",
+      "title": "Библиотека: логирование",
+      "directory": "05_projects/02_library_logging",
+      "original_branch": "develop",
+      "snapshot_ref": "develop",
+      "commit": "e1579a57ddd73c23a4828f740f208e64fceafdbb",
+      "merge_request": 9,
+      "entrypoint": "main.py",
+      "merge_request_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/merge_requests/9",
+      "files": [
+        {
+          "path": "05_projects/02_library_logging/.flake8",
+          "source_path": ".flake8",
+          "sha256": "42de74a6a66446b08b352c4c026af1b3207a700f2c26544a5c6a2a49c55755c0",
+          "bytes": 144,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/.flake8"
+        },
+        {
+          "path": "05_projects/02_library_logging/.gitignore",
+          "source_path": ".gitignore",
+          "sha256": "0689a8f7ca9d9e76d90d92f8dc80fa3d22e0bb77ba7ff0fae921d5713f60cdf1",
+          "bytes": 20,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/.gitignore"
+        },
+        {
+          "path": "05_projects/02_library_logging/.pylintrc",
+          "source_path": ".pylintrc",
+          "sha256": "c3cc7b5b0032b62ea53895ce73725900a9462aecb2c289818be601d7d7611e70",
+          "bytes": 38,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/.pylintrc"
+        },
+        {
+          "path": "05_projects/02_library_logging/data/books.json",
+          "source_path": "data/books.json",
+          "sha256": "95b6caba05a4274c92e200a4cdb03430e80221583c03479fa8ae6d969c997757",
+          "bytes": 1502,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/data/books.json"
+        },
+        {
+          "path": "05_projects/02_library_logging/library.py",
+          "source_path": "library.py",
+          "sha256": "7f9f099807e03764ec7b61ee7a22e014e2dd8991bf60ade39527334be21f2a99",
+          "bytes": 3945,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/library.py"
+        },
+        {
+          "path": "05_projects/02_library_logging/main.py",
+          "source_path": "main.py",
+          "sha256": "ba146bfcbbf2818eb7ad3c01261b87d1e323b336137922b185fd9533a0ee365f",
+          "bytes": 1652,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/main.py"
+        },
+        {
+          "path": "05_projects/02_library_logging/requirements.txt",
+          "source_path": "requirements.txt",
+          "sha256": "04bf0360edec8dc4e98dac0fab412ddb29284eb0fe84b63f315e560645f7df1d",
+          "bytes": 364,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/requirements.txt"
+        },
+        {
+          "path": "05_projects/02_library_logging/user.py",
+          "source_path": "user.py",
+          "sha256": "a4c358c6dace95afb3a71019ca317216f71b51f7875f88904f5cb48723d6c87d",
+          "bytes": 3062,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/user.py"
+        },
+        {
+          "path": "05_projects/02_library_logging/utils.py",
+          "source_path": "utils.py",
+          "sha256": "4cedcda2b23f8a877e5275a8bfa5da651ded2fc52dd0ee81d654440630ca7898",
+          "bytes": 213,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/utils.py"
+        },
+        {
+          "path": "05_projects/02_library_logging/my_logs.py",
+          "source_path": "my_logs.py",
+          "sha256": "0ec122ee8c3436a605bda42437d8f75931169e60bedb62fc6856c336da2b2904",
+          "bytes": 996,
+          "source_url": "https://gitlab.qa.studio/python-auto-qa/workspaces/deymos/AOMWZ/gladkikh/-/blob/e1579a57ddd73c23a4828f740f208e64fceafdbb/my_logs.py"
+        }
+      ]
+    }
+  ]
+}
